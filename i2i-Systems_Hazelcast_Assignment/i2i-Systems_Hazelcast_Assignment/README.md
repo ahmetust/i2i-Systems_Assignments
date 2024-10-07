@@ -7,16 +7,16 @@ Simple project for learning Hazelcast IMDG basics. The project compare the inser
 Insertion and Selection times are calculated and recorded in the table for both utilities.
 
 ### Hazelcast Insert and Select time for 20000 numbers
-![Hazelcast20k](https://github.com/ahmetust/i2i-Systems_Hazelcast_Assignment/blob/main/Screenshots/Hazelcast20k.JPG)
+![Hazelcast20k](https://github.com/ahmetust/i2i-Systems_Assignments/blob/master/i2i-Systems_Hazelcast_Assignment/i2i-Systems_Hazelcast_Assignment/Screenshots/Hazelcast20k.JPG)
 
 ### OracleSQL Insert and Select time for 20000 numbers
-![OracleSQL20k](https://github.com/ahmetust/i2i-Systems_Hazelcast_Assignment/blob/main/Screenshots/oracle20k.JPG)
+![OracleSQL20k](https://github.com/ahmetust/i2i-Systems_Assignments/blob/master/i2i-Systems_Hazelcast_Assignment/i2i-Systems_Hazelcast_Assignment/Screenshots/oracle20k.JPG)
 
 ### Hazelcast Insert and Select time for 100000 numbers
-![Hazelcast100k](https://github.com/ahmetust/i2i-Systems_Hazelcast_Assignment/blob/main/Screenshots/Hazelcast100k.JPG)
+![Hazelcast100k](https://github.com/ahmetust/i2i-Systems_Assignments/blob/master/i2i-Systems_Hazelcast_Assignment/i2i-Systems_Hazelcast_Assignment/Screenshots/Hazelcast100k.JPG)
 
 ### OracleSQL Insert and Select time for 100000 numbers
-![Hazelcast100k](https://github.com/ahmetust/i2i-Systems_Hazelcast_Assignment/blob/main/Screenshots/oracle100k.JPG)
+![Oracle100k](https://github.com/ahmetust/i2i-Systems_Assignments/blob/master/i2i-Systems_Hazelcast_Assignment/i2i-Systems_Hazelcast_Assignment/Screenshots/oracle100k.JPG)
 
 
 | Data Amount   | Hazelcast Insert  | OracleSQL Insert | Hazelcast Select  | OracleSQL Select |
